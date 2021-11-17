@@ -18,27 +18,27 @@ This repository contains **SFUIT MOBILE APP**
 ## Screens
 - **Login**
 
-![image](https://lh4.googleusercontent.com/3RxtvdwAnYwTPhuMVCWS6CxwEqC7ElfIVPs23YjX3xchGbEu8kslJLWRNC-UZ6-5MZuKVAFCFhGDuA=w995-h942-rw)
+<img src="https://drive.google.com/uc?export=view&id=15jwvQoGKfALPxVSm3Cj9IxItHGj8VhuM" width="300" height="500" />
 
 - **Verify Device**
 
-![image](https://lh3.googleusercontent.com/eyvyyc0o0V8HCDiNPL7ueaEgrjQL2z_4NAAGBLqsWbrUp9nwMziVCH26YPr689AJSe1iSGugpEsXmDBpfnxm=w1920-h942-rw)
+<img src="https://drive.google.com/uc?export=view&id=15jwvQoGKfALPxVSm3Cj9IxItHGj8VhuM" width="300" height="500" />
 
 - ** Register**
 
-![image](https://lh4.googleusercontent.com/WJ8x9gSE34QrpUB-jKuuJ3ZNx5ChDVVD4gDeQpJEfk_5NsQr-Pz_Sm_iqCeSwllO_eQ2hPZNgQDyYdaVd9Je=w995-h942-rw)
+<img src="https://drive.google.com/uc?export=view&id=1rXxYbEkT7tLfr3UJuYCUSJA6O3bqElrW" width="300" height="600" />
 
 - **Navigation Drawer**
 
-![image](https://lh4.googleusercontent.com/_oi-yOubDF_eymvYxjE3xnG5tSYSQxGp1BLmphP_gY7ABPsc28d4k6MsDbItJSOxqb0dKHqjJGwInpmKnSSf=w995-h942-rw)
+<img src="https://drive.google.com/uc?export=view&id=1vu_CrNK9qVbo9RGXkkaqVnTpvx1EbC7Y" width="300" height="500" />
 
 - **Home**
 
-![image](https://lh6.googleusercontent.com/iLtpoYb_Z1-EzpslXzPLP7d4stS7cpCbfeSONy2HWcMXRGK0-3iKkAR6Ai67oQ5HJK9dh-TpjfXbBbof7E1g=w995-h942-rw)
+<img src="https://drive.google.com/uc?export=view&id=1iZ6vF0GMwZbjEgS3snr3dE3vinoLFKG-" width="300" height="500" />
 
 - **Connect To SFUIT Product**
 
-![image](https://lh6.googleusercontent.com/qArMjXr4YL-5Cs0mc9U4yYWmUGLhTZdQjne2VvLKvWalInNX7MDSY7xBxNh2aBZ8yb-kfABtzRUhwfIU27YC=w995-h942-rw)
+<img src="https://drive.google.com/uc?export=view&id=1x938fPtgHQeX7PPqlcNSKQtrMgezfzFZ" width="300" height="500" />
 
 ## Components
 - Login
