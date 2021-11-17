@@ -28,7 +28,6 @@ const newColorTheme = {
 const theme = extendTheme({colors: newColorTheme});
 
 const Drawer = createDrawerNavigator();
-
 function App() {
   const [token, setToken] = useState(null);
   const [goToLogin, setLogin] = useState(null);
