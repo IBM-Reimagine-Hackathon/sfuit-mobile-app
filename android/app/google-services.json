@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62275922975",
+    "project_id": "fcstoken",
+    "storage_bucket": "fcstoken.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62275922975:android:6c0d3e8d18c8ccbd49392a",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62275922975-8b3546fchlpto4mpnig9gr48cm7k3ad6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYkOmuOcI6WXilnxNy__q0pbJnB-OsN3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62275922975-8b3546fchlpto4mpnig9gr48cm7k3ad6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
